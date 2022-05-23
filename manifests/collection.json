@@ -1,0 +1,13 @@
+{
+  "id" : "https://elems2020.github.io/DDB/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in elems2020/DDB project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://elems2020.github.io/DDB/manifests/manifest.json",
+    "label" : "Bamberger Dom"
+  } ]
+}
